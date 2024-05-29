@@ -1,5 +1,5 @@
-# QRT000_Casoli (mappa non collegata)
-Dataset contenente i QRtag segnaletici collocati nell'area di Casoli 
+# QRT000_Casoli ([mappa](https://umap.openstreetmap.fr/it/map/qrt000_casoli_1041683?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+Dataset contenente i QRtag segnaletici collocati nell'area di Casoli durante la prima ricognizione
 ## QRtag: Buca La Piella
 [<img src='qrtags/t5ysrm.png' width='150'/>](qrtags/t5ysrm.png) **Accesso Buca "La Piella**
 ## QRtag: Calendario celtico
