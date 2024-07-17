@@ -40,23 +40,3 @@ Dataset contenente i QRtag segnaletici collocati nell'area di Casoli durante la 
 [<img src='qrtags/fxq83v.png' width='150'/>](qrtags/fxq83v.png) *Nessuna immagine* 
 
 ****
-## QRtag: Casoli 1
-[<img src='qrtags/5ahvp8.png' width='150'/>](qrtags/5ahvp8.png) *Nessuna immagine* 
-
-****
-## QRtag: Casoli 2
-[<img src='qrtags/kwr1wx.png' width='150'/>](qrtags/kwr1wx.png) *Nessuna immagine* 
-
-****
-## QRtag: Casoli 3
-[<img src='qrtags/hve4pj.png' width='150'/>](qrtags/hve4pj.png) *Nessuna immagine* 
-
-****
-## QRtag: Casoli 4
-[<img src='qrtags/mprs0w.png' width='150'/>](qrtags/mprs0w.png) *Nessuna immagine* 
-
-****
-## QRtag: Casoli 5
-[<img src='qrtags/e4n2js.png' width='150'/>](qrtags/e4n2js.png) *Nessuna immagine* 
-
-****
