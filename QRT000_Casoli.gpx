@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.036673" lon="10.683612">
+    <ele>500</ele>
+    <name>Buca La Piella</name>
+    <desc>Accesso Buca "La Piella</desc>
+  </wpt>
+  <wpt lat="44.039861" lon="10.669845">
+    <ele>500</ele>
+    <name>Calendario celtico</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.040035" lon="10.670618">
+    <ele>500</ele>
+    <name>Castello</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.039277" lon="10.669466">
+    <ele>500</ele>
+    <name>Chiesa dei SS. Donato e Andrea</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.039064" lon="10.672441">
+    <ele>500</ele>
+    <name>Iscrizione longobarda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.034678" lon="10.677609">
+    <ele>500</ele>
+    <name>Lago di Casoli</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.039601" lon="10.669938">
+    <ele>500</ele>
+    <name>Madonna di Castello</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.031732" lon="10.677597">
+    <ele>500</ele>
+    <name>Madonna di Col di Piano</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035913" lon="10.677644">
+    <ele>500</ele>
+    <name>Metato</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035298" lon="10.67592">
+    <ele>500</ele>
+    <name>Sant'Andrea de Lacu</name>
+    <desc></desc>
+  </wpt>
+</gpx>
